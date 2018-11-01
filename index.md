@@ -10,11 +10,11 @@ Email: DalstonChen [at] foxmail [dot] com
 
 ## News
 
-Nov. 11, 2018 One paper accepted by AAAI 2019.
+Nov. 11, 2018 One paper accepted by AAAI 2019. [NEW~]
 
 Aug. 10, 2018 One paper accepted by EMNLP 2018.
 
-Nov. 11, 2017	Invited Talk at student workshop of NLPCC 2017, Dalian, China [NEW~]
+Nov. 11, 2017	Invited Talk at student workshop of NLPCC 2017, Dalian, China.
 
 Apr.23, 2017		One paper accepted by IJCAI 2017.
 
@@ -43,7 +43,7 @@ My research interests are about natural language processing and machine learning
 
 ## Education Bio
 
-- 2013.9 - 2018.6		Ph.D. in the NLP group, Fudan University, working with [Prof. Xuanjing Huang](http://nlp.fudan.edu.cn/xjhuang/) & [Prof. Xipeng Qiu](http://nlp.fudan.edu.cn/xpqiu/en.html)
+- 2013.9 - 2018.6		Ph.D. in the NLP group, Fudan University, working with [Prof. Xuanjing Huang](http://nlp.fudan.edu.cn/xjhuang/) & [Prof. Xipeng Qiu](http://nlp.fudan.edu.cn/xpqiu/en.html).
 
 - 2009.9 - 2013.6B.S. at College of Mathematics, Physics and Information Engineering, Zhejiang Normal University, working with Prof. Jianmin Han.
 
