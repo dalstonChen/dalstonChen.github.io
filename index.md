@@ -1,6 +1,6 @@
 ## Xinchi Chen
 
-PhD student at School of Computer Science, Fudan University
+Research Associate (PostDoc) at ILCC, University of Edinburgh
 
 Email: DalstonChen [at] foxmail [dot] com
 
@@ -9,6 +9,10 @@ Email: DalstonChen [at] foxmail [dot] com
 [Google Scholar](https://scholar.google.com/citations?user=fPLNGx4AAAAJ&hl=zh-CN), [LinkedIn](https://www.linkedin.com/in/xinchi-chen-b1997bb1/), [Twitter](https://twitter.com/dalstonchen), [Facebook](https://www.facebook.com/dalston.chen)
 
 ## News
+
+Nov. 11, 2018 One paper accepted by AAAI 2019.
+
+Aug. 10, 2018 One paper accepted by EMNLP 2018.
 
 Nov. 11, 2017	Invited Talk at student workshop of NLPCC 2017, Dalian, China [NEW~]
 
@@ -31,15 +35,38 @@ My research interests are about natural language processing and machine learning
 - Text Generation
 - Semantic Composition
 
+## Work Experience
 
-## Short Bio
+- 2018.9 - Now Research Associate (PostDoc) at ILCC, University of Edinburgh, working with [Prof. Ivan Titov](http://ivan-titov.org/).
 
-- 2013.9 - Now		Ph.D. in the NLP group, Fudan University, working with [Prof. Xuanjing Huang](http://nlp.fudan.edu.cn/xjhuang/) & [Prof. Xipeng Qiu](http://nlp.fudan.edu.cn/xpqiu/en.html)
-- 2017.6 - 2017.11Intern at NLC group, Microsoft research Asia (MSRA), working with [Dr. Furu Wei](http://mindio.net/) & [Prof. Ming Zhou](https://www.microsoft.com/en-us/research/people/mingzhou/).
+- 2017.6 - 2017.11 Intern at NLC group, Microsoft research Asia (MSRA), working with [Dr. Furu Wei](http://mindio.net/) & [Prof. Ming Zhou](https://www.microsoft.com/en-us/research/people/mingzhou/).
+
+## Education Bio
+
+- 2013.9 - 2018.6		Ph.D. in the NLP group, Fudan University, working with [Prof. Xuanjing Huang](http://nlp.fudan.edu.cn/xjhuang/) & [Prof. Xipeng Qiu](http://nlp.fudan.edu.cn/xpqiu/en.html)
+
 - 2009.9 - 2013.6B.S. at College of Mathematics, Physics and Information Engineering, Zhejiang Normal University, working with Prof. Jianmin Han.
 
 ## Publications
 
+- **Towards Diverse Text Generation with Inverse Reinforcement Learning**
+
+  Zhan Shi, **Xinchi Chen**, Xipeng Qiu, Xuanjing Huang
+  
+  IJCAI 2018&nbsp;[[paper](https://www.ijcai.org/proceedings/2018/0606.pdf)]
+  
+- **Attention-Fused Deep Matching Network for Natural Language Inference**
+
+  Chaoqun Duan, Lei Cui, **Xinchi Chen**, Furu Wei, Conghui Zhu, Tiejun Zhao
+  
+  IJCAI 2018&nbsp;[[paper](https://www.ijcai.org/proceedings/2018/0561.pdf)]
+  
+- **Convolutional Interaction Network for Natural Language Inference**
+
+  Jingjing Gong, Xipeng Qiu, **Xinchi Chen** and Xuanjing Huang
+  
+  EMNLP 2018&nbsp;[[paper](http://aclweb.org/anthology/D18-1186)] 
+  
 - **A Feature-Enriched Neural Model forJoint Chinese Word Segmentation and Part-of-Speech Tagging**
 
   **Xinchi Chen**, Xipeng Qiu & Xuanjing Huang 
