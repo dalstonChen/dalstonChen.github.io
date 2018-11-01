@@ -16,11 +16,11 @@ Aug. 10, 2018 One paper accepted by EMNLP 2018.
 
 Nov. 11, 2017	Invited Talk at student workshop of NLPCC 2017, Dalian, China.
 
-Apr.23, 2017		One paper accepted by IJCAI 2017.
+Apr.23, 2017 One paper accepted by IJCAI 2017.
 
 Mar. 30, 2017	One paper accepted by ACL 2017 as outstanding paper.
 
-Jul. 24, 2015		Four papers accepted by EMNLP 2015 
+Jul. 24, 2015 Four papers accepted by EMNLP 2015 
 
 Apr. 23, 2015	Two papers accepted by ACL 2015.
 
@@ -67,7 +67,7 @@ My research interests are about natural language processing and machine learning
   
   EMNLP 2018&nbsp;[[paper](http://aclweb.org/anthology/D18-1186)] 
   
-- **A Feature-Enriched Neural Model forJoint Chinese Word Segmentation and Part-of-Speech Tagging**
+- **A Feature-Enriched Neural Model for Joint Chinese Word Segmentation and Part-of-Speech Tagging**
 
   **Xinchi Chen**, Xipeng Qiu & Xuanjing Huang 
 
@@ -135,12 +135,12 @@ My research interests are about natural language processing and machine learning
 
 ## Talks
 
-- 2015.9	Neural Networksfor Transition based Dependency Parsing, at Zhejiang Normal Unviverisy
-- 2016.9Chinese WordSegmentation based on Neural Networks, at NLP group of Ticwatch Inc.
-- 2016.11Deep Learning for NaturalLanguage Processing, at MSRA Ph.D. Forum
-- 2016.12Frontier Neural Approaches toNatural Language Processing, at Alibaba Inc.
-- 2017.4Neural WordSegmentation, at PaperWeekly (Online Talk)
-- 2017.6Neural Models forChinese Word Segmentation, at Tsinghua University
+- 2015.9 Neural Networksfor Transition based Dependency Parsing, at Zhejiang Normal Unviverisy
+- 2016.9 Chinese Word Segmentation based on Neural Networks, at NLP group of Ticwatch Inc.
+- 2016.11 Deep Learning for Natural Language Processing, at MSRA Ph.D. Forum
+- 2016.12 Frontier Neural Approaches to Natural Language Processing, at Alibaba Inc.
+- 2017.4 Neural Word Segmentation, at PaperWeekly (Online Talk)
+- 2017.6 Neural Models for Chinese Word Segmentation, at Tsinghua University
 
 ## Professional Service
 
