@@ -146,7 +146,8 @@ My research interests are about natural language processing and machine learning
 
 **Reveiwers**
 
- - 2016: COLING 2016, NAACL 2016.
+- 2016: COLING 2016, NAACL 2016.
 - 2017: NLPCC 2017, CCKS 2017, ACL 2017.
- - 2018: NAACL 2018, LREC 2018
+- 2018: NAACL 2018, LREC 2018, ACL 2018.
+- 2019: AAAI 2019.
 
