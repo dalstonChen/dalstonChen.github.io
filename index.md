@@ -14,7 +14,7 @@ Nov. 11, 2018 One paper accepted by AAAI 2019. [NEW~]
 
 Aug. 10, 2018 One paper accepted by EMNLP 2018.
 
-Nov. 11, 2017	Invited Talk at student workshop of NLPCC 2017, Dalian, China.
+Nov. 11, 2017	Invited talk at student workshop of NLPCC 2017, Dalian, China.
 
 Apr.23, 2017 One paper accepted by IJCAI 2017.
 
@@ -150,4 +150,20 @@ My research interests are about natural language processing and machine learning
 - 2017: NLPCC 2017, CCKS 2017, ACL 2017.
 - 2018: NAACL 2018, LREC 2018, ACL 2018.
 - 2019: AAAI 2019.
+
+## Honors
+
+- Excellent doctorial dissertation of Chinese Information Processing Society of China
+- Outstanding graduate of Shanghai
+- Academic star of Fudan University
+- National scholarship for graduate student (Ratio: 3%)
+- National scholarship for undergraduate student (Ratio: 0.2%)
+- Huawei scholarship for graduate student
+- EMC scholarship for graduate student
+- Nomination award of Baidu fellowship
+- Nomination award of MSRA fellowship
+- Gold medal on ACM of Zhejiang Province, China (There times on 2010-2013)
+- Silver medal on the 2012 ACM-ICPC asia Changchun regional contest
+
+
 
