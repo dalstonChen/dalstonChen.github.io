@@ -4,7 +4,7 @@ Research Associate (PostDoc) at ILCC, University of Edinburgh
 
 Email: DalstonChen [at] foxmail [dot] com
 
-[[Bio](#short-bio)]&nbsp;[[Publications](#publications)]&nbsp;[[Talks](#talks)]&nbsp;[[Professional Service](#professional-service)]&nbsp;[[Honors](#honors)][[CV](https://drive.google.com/file/d/1Ea6Lkr6orsTI6zJIxnU3UA9XG6n6Tr_R/view?usp=sharing)]
+[[Bio](#short-bio)]&nbsp;[[Publications](#publications)]&nbsp;[[Talks](#talks)]&nbsp;[[Professional Service](#professional-service)]&nbsp;[[Honors](#honors)]&nbsp;[[CV](https://drive.google.com/file/d/1Ea6Lkr6orsTI6zJIxnU3UA9XG6n6Tr_R/view?usp=sharing)]
 
 [Google Scholar](https://scholar.google.com/citations?user=fPLNGx4AAAAJ&hl=zh-CN), [LinkedIn](https://www.linkedin.com/in/xinchi-chen-b1997bb1/), [Twitter](https://twitter.com/dalstonchen), [Facebook](https://www.facebook.com/dalston.chen)
 
