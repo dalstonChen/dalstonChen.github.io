@@ -162,7 +162,7 @@ My research interests are about natural language processing and machine learning
 - EMC scholarship for graduate student
 - Nomination award of Baidu fellowship
 - Nomination award of MSRA fellowship
-- Gold medal on ACM of Zhejiang Province, China (There times on 2010-2013)
+- Gold medal on ACM of Zhejiang Province, China (There times on 2011-2013)
 - Silver medal on the 2012 ACM-ICPC asia Changchun regional contest
 
 
